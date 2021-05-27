@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:telrlibrary-release:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../build/telrlibrary-release/.transforms/e72b6b32c2c51b6f67f04d207db319af/jetified-telrlibrary-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../build/telrlibrary-release/.transforms/e72b6b32c2c51b6f67f04d207db319af/jetified-telrlibrary-release/res" />
+      <root url="file://$PROJECT_DIR$/../build/telrlibrary-release/.transforms/e72b6b32c2c51b6f67f04d207db319af/jetified-telrlibrary-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
